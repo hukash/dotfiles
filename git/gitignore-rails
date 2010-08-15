@@ -1,0 +1,14 @@
+# .gitignore
+
+.DS_Store
+*.swp
+*.tmproj
+# Create some .gitignore files so the empty directories get tracked:
+# touch log/.gitignore
+# touch tmp/.gitignore
+log/*.log
+tmp/**/*
+doc/api
+doc/app
+db/*.sqlite3
+#config/database.yml

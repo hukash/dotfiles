@@ -1,0 +1,16 @@
+# gitignore for Grails
+
+/web-app/WEB-INF
+*.iws
+*.iml
+*.ipr
+*.war
+.classpath
+.DS_Store
+.project
+.settings
+/*.launch
+/*.tmproj
+/out/**
+stacktrace.log
+test/reports
