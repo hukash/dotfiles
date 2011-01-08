@@ -8,4 +8,5 @@ export GRAILS_HOME=/usr/share/grails
 export PATH=${PATH}:$GROOVY_HOME/bin
 export PATH=${PATH}:$GRAILS_HOME/bin
 export PATH=${PATH}:/Users/Lukas/Development/android-sdk/tools
+export PATH=${PATH}:/Users/Lukas/Development/android-sdk/platform-tools
 
