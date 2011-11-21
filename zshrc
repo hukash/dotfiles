@@ -1,5 +1,6 @@
 # Path to your oh-my-zsh configuration.
-ZSH=/Volumes/HDD/Users/lukas/Development/oh-my-zsh
+# ZSH=/Volumes/HDD/Users/lukas/Development/oh-my-zsh
+ZSH=/Volumes/HDD/Users/lukas/Development/dotfiles/oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
