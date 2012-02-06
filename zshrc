@@ -7,6 +7,7 @@ ZSH=/Volumes/HDD/Users/lukas/Development/dotfiles/oh-my-zsh
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
 ZSH_THEME="robbyrussell"
+# ZSH_THEME="juanghurtado"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
