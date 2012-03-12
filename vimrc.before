@@ -1,0 +1,17 @@
+" Key remapping
+let mapleader="-"
+
+" set number                      " Show line numbers.
+set relativenumber                " Set number relative to current line
+set ruler                         " Show cursor position.
+" set cursorline                  " Highlight current line.
+set scrolloff=5                   " Show 3 lines of context around the cursor.
+
+" Easy buffer navigation
+map <C-h> <C-w>h
+map <C-j> <C-w>j
+map <C-k> <C-w>k
+map <C-l> <C-w>l
+
+" NERD_Tree
+nmap <silent> <c-n> :NERDTreeToggle<CR>
