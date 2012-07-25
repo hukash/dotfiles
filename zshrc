@@ -38,7 +38,8 @@ source $ZSH/oh-my-zsh.sh
 # export VIRTUALENVWRAPPER_HOOK_DIR="$WORKON_HOME"
 
 # Java 
-export JAVA_HOME=/System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK/Home
+# export JAVA_HOME=/System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK/Home
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/1.7.0.jdk/Contents/Home
 export ANT_HOME=/usr/share/ant
 export MAVEN_HOME=/usr/share/maven
 export JUNIT_HOME=/usr/share/junit
