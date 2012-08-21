@@ -29,9 +29,6 @@ source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
 
-# RVM
-# [[ -s "/Volumes/HDD/Users/lukas/.rvm/scripts/rvm" ]] && source "/Volumes/HDD/Users/lukas/.rvm/scripts/rvm"  # This loads RVM into a shell session.
-
 # Virtualenv settings
 # export WORKON_HOME=~/.virtualenvs
 # export VIRTUALENVWRAPPER_LOG_DIR="$WORKON_HOME"
@@ -50,3 +47,6 @@ export PATH=${PATH}:/Volumes/HDD/Users/lukas/Development/google_appengine
 # Android
 export PATH=${PATH}:/Volumes/HDD/Users/lukas/Development/android-sdk/tools
 export PATH=${PATH}:/Volumes/HDD/Users/lukas/Development/android-sdk/platform-tools
+
+#temp
+export PATH=${PATH}:/Volumes/HDD/Users/lukas/Downloads/KindleGen_Mac_i386_v2_5
